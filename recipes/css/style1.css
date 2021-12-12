@@ -1,0 +1,39 @@
+*{
+    background-color: #c7ad7f;
+
+}
+
+/*body{
+    background-image: url("../img/pesto.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
+
+h1{
+    color: green;
+    font-weight: bold;
+}
+
+h2{
+    color: blue;
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+    color: crimson;
+}
+
+em{
+    color: darkmagenta;
+}
+
+.lowest{
+    color:mediumpurple;
+}
+
+img{
+    width: 700px;
+}
